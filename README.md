@@ -7,19 +7,13 @@ Members :
 3. Mehul Vagh – 202201251 
  
 1. Low Fidelity Link : 
-https://www.figma.com/design/UqtK73Lsm5bETsl
- AG3qREc/Low_fidelity_wireframes?node-id=0
-1&t=2H7gdIHGrDtwlORP-1 
+https://www.figma.com/design/UqtK73Lsm5bETslAG3qREc/Low_fidelity_wireframes?node-id=01&t=2H7gdIHGrDtwlORP-1 
  
 2. High Fidelity Link : 
-https://www.figma.com/design/HwhM9uYetLUae
- GyMzYQbrL/Ui-ux-entertainment-project?node
-id=0-1&t=uivaCYYgH9wEhMnY-1 
+https://www.figma.com/design/HwhM9uYetLUaeGyMzYQbrL/Ui-ux-entertainment-project?nodeid=0-1&t=uivaCYYgH9wEhMnY-1 
  
 3. Prototype Link : 
-https://www.figma.com/proto/HwhM9uYetLUaeG
- yMzYQbrL/Ui-ux-entertainment-project?node
-id=0-1&t=uivaCYYgH9wEhMnY-1
+https://www.figma.com/proto/HwhM9uYetLUaeGyMzYQbrL/Ui-ux-entertainment-project?nodeid=0-1&t=uivaCYYgH9wEhMnY-1
 
 Project Overview – BingeBuzz
 
